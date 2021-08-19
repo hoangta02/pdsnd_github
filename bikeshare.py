@@ -51,6 +51,8 @@ def get_filters():
 
     print("From East coast to West coast\n")
 
+    print("From New York to LA\n")
+
     print("Type end at any time if you would like to exit the program.\n")
 
     while True:
