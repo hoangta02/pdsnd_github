@@ -49,6 +49,8 @@ def get_filters():
 
     print("\n\nLet's explore some US bikeshare data!\n")
 
+    print("From East coast to West coast\n")
+
     print("Type end at any time if you would like to exit the program.\n")
 
     while True:
